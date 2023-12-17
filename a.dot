@@ -1,0 +1,6 @@
+graph graphname {
+   A -- B;
+   A -- AR;
+   B -- BL;
+   B -- BR;
+}
